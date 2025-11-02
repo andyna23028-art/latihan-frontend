@@ -21,17 +21,14 @@ latihan-backend/    → Express + JWT + file JSON
 ---
 
 ## ⚙️ Cara Menjalankan
-
-### 🔧 Backend
+🔧 Backend
 ```bash
 cd latihan-backend
 npm install
 node index.js
 
 ---
-
-
-### 🎨  Frontend
+🎨  Frontend
 ```bash
 cd latihan-frontend
 npm install
