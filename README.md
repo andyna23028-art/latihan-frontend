@@ -43,5 +43,5 @@ node index.js
 
 ## 👩‍💻 Author
 Andyna Aulia Azzahra
-Sistem Informasi 2023 A – Universitas Negeri Surabaya
+Sistem Informasi – Universitas Negeri Surabaya
 
