@@ -15,8 +15,13 @@ Aplikasi web sederhana dengan fitur autentikasi dan CRUD menggunakan **React** (
 ---
 
 ## 📁 Struktur Folder
-latihan-frontend/   → React + React Router
-latihan-backend/    → Express + JWT + file JSON
+## 📁 Struktur Folder
+
+| Folder             | Teknologi & Fungsi                       |
+|--------------------|------------------------------------------|
+| latihan-frontend/  | React + React Router + Tailwind CSS      |
+| latihan-backend/   | Express + JWT + file JSON                |
+| Dokumentasi/       | Dokumentasi |
 
 ---
 
