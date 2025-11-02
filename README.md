@@ -34,6 +34,7 @@ cd latihan-frontend
 npm install
 npm start
 
+---
 🔧 Backend
 ```bash
 cd latihan-backend
