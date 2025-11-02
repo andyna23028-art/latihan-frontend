@@ -26,11 +26,6 @@ Aplikasi web sederhana dengan fitur autentikasi dan CRUD menggunakan **React** (
 ---
 
 ## ⚙️ Cara Menjalankan
-🔧 Backend
-```bash
-cd latihan-backend
-npm install
-node index.js
 
 ---
 🎨  Frontend
@@ -38,6 +33,12 @@ node index.js
 cd latihan-frontend
 npm install
 npm start
+
+🔧 Backend
+```bash
+cd latihan-backend
+npm install
+node index.js
 
 ## 👩‍💻 Author
 Andyna Aulia Azzahra
